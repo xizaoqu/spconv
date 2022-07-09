@@ -20,6 +20,7 @@
 #include "nms_gpu.h"
 #include <algorithm>
 #include <boost/geometry.hpp>
+#include <boost/geometry/geometries/geometries.hpp>
 #include <pybind11/numpy.h>
 #include <pybind11/stl.h>
 #include <vector>

@@ -16,6 +16,7 @@
 #include <spconv/nms_functor.h>
 #include <torch/script.h>
 #include <vector>
+#include <boost/geometry/geometries/geometries.hpp>
 
 namespace spconv {
 

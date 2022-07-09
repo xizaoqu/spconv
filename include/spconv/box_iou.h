@@ -20,6 +20,7 @@
 #include <algorithm>
 #include <boost/geometry.hpp>
 #include <pybind11/numpy.h>
+#include <boost/geometry/geometries/geometries.hpp>
 
 namespace spconv {
 // #include "voxelnet/core/cc/pybind11_helper.h"
